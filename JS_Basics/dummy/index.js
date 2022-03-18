@@ -1,1 +1,0 @@
-alert("from inside a folder")
